@@ -7,4 +7,4 @@
 
 [GitHub](https://desktop.github.com/)
 
-[USACO](https://usaco.org/index.php)
+[USACO](http://usaco.org/index.php)
